@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">EncripterExamGuard</string>
+    <string name="header">Aplikasi Pengaman Ujian</string>
+    <string name="petunjuk">Petunjuk :\n1. Paste link ujian yg telah dibuat;\n2. Kemudian Tekan Tombol Enkripsi\n3. Copy atau Share link ke peserta ujian.</string>
+    <string name="share">Share Link Ujian</string>
+    <string name="copy">Copy Link Ujian</string>
+    <string name="encrip">Enkripsi</string>
+    <string name="paste">Paste</string>
+    <string name="link">Link Ujian</string>
+</resources>
